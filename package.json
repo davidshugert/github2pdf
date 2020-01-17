@@ -1,0 +1,17 @@
+{
+  "name": "github2pdf",
+  "version": "1.0.0",
+  "description": "Cli tool to save a gitub repository markdown files as a single pdf.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "David Shugert",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.3",
+    "inquirer-path": "^1.0.0-beta5",
+    "markdown-pdf": "^10.0.0",
+    "timediff-tool": "^1.1.0"
+  }
+}
