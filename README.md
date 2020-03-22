@@ -6,7 +6,14 @@ Cli tool that allows you to dowload a github repository markdowns as a single pd
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install -g timediff-tool 
+$ npm install -g github2pdf
+```
+---
+ ## Steps to run the tool
+```
+foo@bar:~$ github2pdf
+**Enter a path to save pdf: (Default will be current path)**
+foo
 ```
 
 ## Notes
