@@ -10,7 +10,7 @@ $ npm install -g github2pdf
 ```
 ---
  ## Steps to run the tool
- ![alt text](/pictures/example.png "Example to run CLI")
+ ![alt text](example.PNG "Example to run CLI")
 
  ## Output
  The output will be a folder named as the owner of the repo and inside it, there will be the pdf named as the repo name.
