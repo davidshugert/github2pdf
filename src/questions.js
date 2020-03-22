@@ -30,7 +30,7 @@ module.exports = {
       message: "No github token found, do you want to use a personal one?"
     },
     {
-      type: "input",
+      type: "password",
       name: "github_token",
       message: "Please insert the following github token:",
       when: function(ans) {
